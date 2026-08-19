@@ -671,17 +671,3 @@ Machine Learning
 ```
 
 ---
-
-## 👩‍💻 Author
-
-**Haripriya Loganadhan**
-
-MCA — Artificial Intelligence & Data Science
-B.Sc — Computer Science
-
----
-
-## ⭐ If You Find This Project Useful
-
-If this project helped you understand demand forecasting or supply-chain optimization, consider giving the repository a ⭐.
-
